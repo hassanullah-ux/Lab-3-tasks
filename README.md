@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# Introduction to mny
 02 **This text is bold**\
 03 *This text is italics*\
 04 ***This text is both bold and italics***\
